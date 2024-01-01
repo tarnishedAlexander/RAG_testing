@@ -1,0 +1,152 @@
+trabajo final de grado bennett
+
+para optimizar el proceso de graduación
+
+la upv ideó una solución informática que
+
+facilita la comunicación entre el tutor
+
+y el estudiante
+
+esta herramienta se ejecuta en la web
+
+del sistema académico de la upv
+
+el primer paso es que el jefe de carrera
+
+designe al tutor del trabajo de grado y
+
+luego de igual forma al docente revisor
+
+ya en la página del sistema el tutor
+
+debe iniciar sesión y en el menú buscar
+
+la opción tutorías tfg en la parte
+
+superior se leen los nombres de los
+
+estudiantes asignados a tutoría en la
+
+inferior a los que se asignó al docente
+
+revisor
+
+para iniciar una conversación con algún
+
+estudiante el tutor busca la columna
+
+actividades y debe hacer clic en ver
+
+actividades
+
+en esta sección tanto el tutor como el
+
+estudiante pueden iniciar una actividad
+
+normalmente es el docente quien lo hace
+
+se debe asignar un nombre a la actividad
+
+y en ella se puede iniciar un ciclo de
+
+conversaciones
+
+por ejemplo perfil de tesis
+
+en la opción crear mensaje que está en
+
+la parte superior derecha color naranja
+
+aparecerá esta ventana
+
+en ella se puede escribir el mensaje y
+
+adjuntar un archivo de máximo 20
+
+megabytes cada mensaje enviado o
+
+recibido se registrará con hora y fecha
+
+así la comunicación será formal y
+
+efectiva
+
+el estudiante podrá trabajar de la misma
+
+forma iniciando sesión en upv net
+
+para ello debe buscar la opción
+
+estudiante pregrado y en el menú
+
+desplegado hacer clic en trabajo de
+
+grado
+
+aquí el estudiante verá cada mensaje que
+
+le haya enviado su docente debiendo
+
+hacer clic en el mensaje para
+
+responderle
+
+después que tutor y estudiante hayan
+
+concluido con el intercambio de mensajes
+
+y revisión de archivos referidos a la
+
+actividad el docente debe aprobar dicha
+
+actividad emergerá una ventana con la
+
+opción de aprobar la actividad
+
+dar clic una vez aprobada la actividad
+
+queda cerrada ningún mensaje adicional
+
+podrá ser enviado
+
+para la aprobación final del trabajo el
+
+tutor debe hacer una solicitud de
+
+informe de originalidad que una vez
+
+procesado se podrá ver en este mismo
+
+sitio si el informe es positivo el
+
+docente puede proceder a la aprobación
+
+del trabajo
+
+cuando el tutor aprueba el trabajo de
+
+grado el jefe de carrera debe designar
+
+un docente revisor los docentes
+
+revisores siguen el mismo procedimiento
+
+que el de los tutores revisión
+
+intercambio con el estudiante y
+
+aprobación
+
+esta herramienta es fácil de usar y
+
+permite mejorar el seguimiento y
+
+controla los trabajos de fin de grado
+
+esperamos que este vídeo haya sido útil
+
+mucho éxito
+
+[Música]
+
